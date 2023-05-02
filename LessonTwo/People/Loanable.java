@@ -1,4 +1,4 @@
-package Buildings;
+package People;
 
 public interface Loanable {
     void loan(String resource, int duration);
